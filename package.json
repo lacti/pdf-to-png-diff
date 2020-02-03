@@ -1,0 +1,19 @@
+{
+  "name": "pdf-to-png-diff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jaeyoung.choi <lactrious@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "looks-same": "^7.2.2",
+    "tempy": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "12",
+    "prettier": "^1.19.1",
+    "ts-node": "^8.6.2",
+    "tslint": "^6.0.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.7.5"
+  }
+}

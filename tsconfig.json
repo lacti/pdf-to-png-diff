@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2018", "DOM"],
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES5",
+    "outDir": "lib",
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "resolveJsonModule": true,
+    "typeRoots": ["./node_modules/@types", "./src/typings"]
+  },
+  "exclude": ["node_modules"]
+}
